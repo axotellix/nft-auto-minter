@@ -1,0 +1,22 @@
+{
+  "name": "mint",
+  "version": "1.0.0",
+  "description": "auto NFT minting using Puppeteer",
+  "main": "mint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "axotellix",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "@chainsafe/dappeteer": "^2.3.0",
+    "pm2": "^5.2.2",
+    "puppeteer": "^19.5.2",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1",
+    "user-agents": "^1.0.1268"
+  }
+}
