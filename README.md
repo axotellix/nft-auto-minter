@@ -23,6 +23,7 @@
 **solve-captcha.js**
 
 - bypasses reCaptcha using "Buster captcha solver for humans" extension
+- check extension: [Buster by Dessant](https://github.com/dessant/buster)
   
 <br/><br/>
 **ip-manager.js**
