@@ -1,8 +1,8 @@
 {
-    "name": "WAR IS #0002",
-    "description": "WAR IS POINTLESS\r\n\rThe consequences of war are terrible. People die, everything is destroyed. It's insanely scary to go through all those horrors. However, at the end there is usually peace. Treaty of Peace is the result of a war. As a rule. And the life goes on. But not for thousands or even millions of people. People who died. If peace comes at the end anyway, just like it was before war - how can we not then say war is silly, pointless? It's so sorrowful our ancestors sacrificed their lives, lived in a permanent fear, suffered from hunger, cold, but we still haven't undesrtood that war has nothing to do with peace.",
-    "collection": "waris-nft",
+    "name": "name-2",
+    "description": "description-2",
+    "collection": "collection-name",
     "props": {
-        "topic": "war is - pointless"
+        "topic": "topic-2"
     }
 }
