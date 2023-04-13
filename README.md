@@ -76,3 +76,11 @@
 **mint-log.txt**
 
 - everything that is being output to console when app is running
+
+<br/><br/>
+## Progress Log
+[see progress log](https://github.com/axotellix/nft-auto-minter/blob/master/project-progress-log.md)
+
+<br/><br/>
+## Issues Log
+*coming soon*
