@@ -128,7 +128,7 @@
   
 - Created **restarts-counter.txt** to count app restarts & after 10 restarts - tell **ip-manager.js** to generate **change-ip.txt**
   
-- Added logging current VPN Server to **restarts.txt** on every server switch (to group restarts log by VPN Server - to monitor which one works better)
+- Added logging current VPN Server to **restarts.txt** on every server switch (to group restarts logs by VPN Server - to monitor which one works better)
   
 
 **22.02.2023**
